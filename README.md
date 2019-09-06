@@ -2,9 +2,10 @@
 
 This is a fork of the original [XLNet repository](https://github.com/zihangdai/xlnet)
 that adds package configuration so that it can be easily installed and used.
-It removes the need for cloning the repository and modifying it locally. A lot
-of code can be shared (e.g. `modeling.py`, `classifier_utils.py`) and this fork
-is exactly for that.
+The purpose is to remove the need of cloning the repository and modifying it
+locally which can be quite dirty for common tasks (e.g. training a new classifier).
+A lot of code can be shared (e.g. `modeling.py`, `classifier_utils.py`) and this
+fork is exactly for that.
 
 All the credit goes to [zihangdai/xlnet](https://github.com/zihangdai/xlnet).
 
