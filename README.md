@@ -16,4 +16,4 @@ in the [XLNet paper](https://arxiv.org/abs/1906.08237).
 
 # Release Notes
 
-* September 5, 2019: Initial version (1.0)
+* September 5, 2019: Initial version (1.0.1)
