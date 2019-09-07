@@ -16,4 +16,5 @@ in the [XLNet paper](https://arxiv.org/abs/1906.08237).
 
 # Release Notes
 
-* September 5, 2019: Initial version ([1.0.1](https://github.com/SebiSebi/xlnet-tensorflow/releases/tag/v1.0.1)).
+* September 5, 2019: Initial version - [v1.0.1](https://github.com/SebiSebi/xlnet-tensorflow/releases/tag/v1.0.1);
+* September 7, 2019: version - [v1.1](https://github.com/SebiSebi/xlnet-tensorflow/releases/tag/v1.1).
