@@ -11,7 +11,7 @@ assert(long_description is not None)
 
 setup(
     name='xlnet-tensorflow',
-    version='1.1',
+    version='1.1.1',
     description='XLNet fork of https://github.com/zihangdai/xlnet with package configuration',
     author='sebisebi',
     author_email='gpirtoaca@gmail.com',
